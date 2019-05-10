@@ -1,0 +1,4 @@
+$ jar tf spring-context-4.0.6.RELEASE.jar
+org/springframework/context/META-INF/spring.handlers
+org/springframework/context/META-INF/spring.schemas
+org/springframework/context/ApplicationContext.class

@@ -1,0 +1,4 @@
+$ jar tf spring-oxm-4.0.6.RELEASE.jar
+org/springframework/oxm/META-INF/spring.schemas
+org/springframework/oxm/META-INF/spring.handlers
+org/springframework/oxm/GenericMarshaller.class
